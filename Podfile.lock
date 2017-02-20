@@ -1,0 +1,15 @@
+PODS:
+  - SwiftDate (4.0.13)
+  - SwiftLint (0.16.1)
+
+DEPENDENCIES:
+  - SwiftDate (~> 4.0)
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  SwiftDate: 8ec416bb1b5129d1f35e8efaed720421f41d42df
+  SwiftLint: b8b683208cc09640898f16318a7a452274e91f61
+
+PODFILE CHECKSUM: 7fc6096cff98c3eb2688642ba6dd310db3284bc1
+
+COCOAPODS: 1.2.0
