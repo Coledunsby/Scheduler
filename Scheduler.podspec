@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = "Scheduler"
   s.version               = "2.0.0"
+  s.swift_version         = "4.0"
   s.summary               = "A collection of utility classes for scheduling."
   s.homepage              = "https://github.com/Coledunsby/Scheduler"
   s.authors               = { "Cole Dunsby" => "coledunsby@gmail.com" }
