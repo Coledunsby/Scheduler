@@ -1,15 +1,15 @@
 PODS:
-  - SwiftDate (4.0.13)
-  - SwiftLint (0.16.1)
+  - SwiftDate (4.5.1)
+  - SwiftLint (0.24.2)
 
 DEPENDENCIES:
   - SwiftDate (~> 4.0)
   - SwiftLint
 
 SPEC CHECKSUMS:
-  SwiftDate: 8ec416bb1b5129d1f35e8efaed720421f41d42df
-  SwiftLint: b8b683208cc09640898f16318a7a452274e91f61
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  SwiftLint: 2aa21b96c8d13396a051bc1cb659d2ce1e0075b0
 
 PODFILE CHECKSUM: 7fc6096cff98c3eb2688642ba6dd310db3284bc1
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.4.0
